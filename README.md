@@ -1,6 +1,6 @@
 # Coastal Reef Mapping with Hyperspectral Data
 
-This project uses airborne hyperspectral imagery to classify and map shallow reef habitats, including live coral, algae, and sand. The goal is to build a workflow from raw radiance data to habitat maps using Python.
+This project uses airborne hyperspectral imagery to classify and map shallow reef habitats, including live coral, algae, and sand. The goal is to build a workflow from raw radiance data to usable habitat maps using Python.
 
 ## Goals
 - Understand hyperspectral data structures
